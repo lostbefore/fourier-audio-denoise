@@ -73,7 +73,7 @@ wavfile.write("output.wav", rate, filtered_signal)
 
 ##### 5.5 原始 vs 去噪波形对比图
 
-![](G:\Desktop\Audio Denoising System\compare_signal.png)
+![](compare_signal.png)
 
 ### 解释：
 
